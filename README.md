@@ -7,7 +7,15 @@ This nuker abuses the discord api to mess with user accounts.
 ## ⚙️ Installation
 
 ```sh
-soon
+apt update
+apt upgrade
+termux-setup-storage
+apt install git
+apt install python
+git clone https://github.com/sdev15/Chronos-Nuker-for-temux
+apt install python
+cd ./Chronos-Nuker-for-temux
+bash start.sh
 ```
 
 ## 🖼️ Preview
